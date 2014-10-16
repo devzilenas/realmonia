@@ -1,0 +1,41 @@
+body   {
+		font-family: Georgia, serif;
+		font-size  : 12px}
+input  {font-family: sans-serif}
+img    {border: none;}
+h1, h2 {margin:0; padding:0}
+pre    {margin:0; padding:0}
+
+label  { width:160px; float:left; font-weight:bold}
+
+.meniu {
+	border-top: 1px dotted blue;
+	border-bottom: 1px dotted blue;
+	font-size: 200%;
+}
+
+.red {
+	color: red;
+}
+.small {
+	font-size: x-small;
+}
+
+.edit {border:1px solid}
+
+.error   { color: red;}
+.info    { color: DarkOliveGreen;}
+
+.mail {
+	background: url(../../media/img/mail.png) no-repeat;
+	padding: 0 0 0 16px}
+.human {
+	background: url(../../media/img/human.png) no-repeat;
+	padding: 0 0 0 16px}
+.password {
+	background: url(../../media/img/key.png) no-repeat;
+	padding: 0 0 0 16px}
+
+caption { background-color: Lavender; font-weight: bolder}
+th { background-color: Lavender} 
+tr { background-color: Cornsilk}
